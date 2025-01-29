@@ -1,6 +1,6 @@
 # ProductManagement
 
-FTS, which stands for Feed the Sheep, is a faith-based digital platform designed to educate and engage users on faith-related topics. It is one of the first digital schools within an app that provides structured learning, interactive content, and AI-driven engagement tools tailored to faith education.
+FTS, which stands for Feed the Sheep, is a faith-based digital platform designed to educate and engage users on faith-related topics. It is the first digital schools within an app that provides structured learning, eCommerce, shopify, interactive content, and AI-driven engagement tools tailored to faith education.
 
 Feed the Sheep (FTS) offers a mobile app and web experience, focusing on providing users with Christian content, eCommerce solutions, and personalized interactions. As the Sr. Product Manager and consultant for FTS, I have led the development and scaling of the product, transforming it into a leading app in the digital faith-based space. My key accomplishments include driving significant growth, launching eCommerce initiatives, integrating AI technologies, and enhancing user experiences through data-driven decisions.
 
